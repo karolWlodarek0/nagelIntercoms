@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "nagel-site",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\code\\nagelIntercoms\\.claude\\serve.js"],
+      "port": 4321
+    }
+  ]
+}
